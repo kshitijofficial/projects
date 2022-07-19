@@ -17,8 +17,8 @@ long-description: |
     - View the optimal layout for the site depending on their device's screen size
     - See hover states for all interactive elements on the page
     - Download the starter code and go through the README.md file.
-    - This will provide further details about the project. The style-guide.html file is where you'll find colors, fonts, etc.
-    - Don't forget to share your submissions with the community to get feedback.
+
+    This will provide further details about the project. The style-guide.html file is where you'll find colors, fonts, etc. Don't forget to share your submissions with the community to get feedback.
 # https://codedamn.com/projects specfic section
 codedamn:
     helper-learning-path: frontend
