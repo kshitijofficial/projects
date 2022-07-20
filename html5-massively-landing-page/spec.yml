@@ -4,7 +4,7 @@ starter-files: https://github.com/codedamn-projects/html5-massively-landing-page
 type: frontend
 level: easy
 cover-image: https://raw.githubusercontent.com/codedamn-projects/html5-massively-landing-page/master/assets/desktop-design-non-fs.jpg
-short-description: This project will be a perfect test of your layout and responsive skills. There's a tiny bit of JS for the mobile menu, but the major focus is HTML & CSS.
+short-description: This project will be a perfect test of your layout and responsive skills. The major focus is HTML and CSS for this project.
 long-description: |
     Your task is to build out this landing page and get it looking as close to the design as possible.
 
