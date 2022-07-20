@@ -3,7 +3,7 @@ tags: ["Web3", "Solidity"]
 starter-files: https://github.com/kshitijofficial/erc20Project
 type: backend
 level: medium
-cover-image: https://github.com/kshitijofficial/erc20Project/blob/main/erc.png
+cover-image: https://raw.githubusercontent.com/kshitijofficial/erc20Project/main/erc.png
 short-description: This project will be a perfect test of how to create your own ERC20 Token from scratch.
 long-description: |
   The task is to create an ERC20 token smart contract.
