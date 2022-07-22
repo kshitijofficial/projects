@@ -1,5 +1,4 @@
-<div align="center">
-    <h1><code>Awesome projects for beginner and intermediate developers</code></h1>
+<h1><code>Awesome projects for beginner and intermediate developers</code></h1>
 <h4>This repository is a collection of projects for everyone. You can build these projects on codedamn and share your results with others.</h4>
 
 ![GitHub stars](https://img.shields.io/github/stars/codedamn/projects?style=social)
