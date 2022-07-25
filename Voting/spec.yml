@@ -1,0 +1,24 @@
+name: Voting Smart Contract
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/kshitijofficial/VoteApp-Project
+type: backend
+level: medium
+cover-image: shttps://raw.githubusercontent.com/kshitijofficial/VoteApp-Project/main/asset/Vote.png
+short-description: This project will be a perfect test of your solidity skills.
+long-description: |
+  The task is to create a voting smart contract.
+  In this smart contract, there will be two entities.
+  First,is the chairperson who administers the voting smart contract.
+  The chairperson will do the following -
+  1) Start and end time of the voting.
+  2) List of the candidates who want to participate.
+  3) Vote counting.
+  Second, the voters who will vote for the election candidates.
+  Every voter will have only one vote. And after the end of the election, no one will be able to vote.
+  Don't forget to share your submissions with the community to get feedback.
+# https://codedamn.com/projects specfic section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1
