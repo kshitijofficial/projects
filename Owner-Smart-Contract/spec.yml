@@ -1,0 +1,21 @@
+name: Voting Smart Contract
+tags: ["Web3", "Solidity"]
+starter-files: https://github.com/kshitijofficial/OwnerProject
+type: backend
+level: easy
+cover-image: https://raw.githubusercontent.com/kshitijofficial/OwnerProject/main/asset/owner.png
+short-description: This project will be a perfect test of your solidity skills.
+long-description: |
+  The task is to create an ownership smart contract.
+  In this smart contract, there will be one entity i.e. the owner of the smart contract.
+  The person who will deploy the smart contract will become the owner of the smart contract.
+  The owner can change the ownership of the smart contract.
+  Whenever the owner of the smart contract is changed. An event will be emitted emitting the old owner's address and the new owner's address.
+  And anyone can access the smart contract to see the owner of the smart contract.
+  Don't forget to share your submissions with the community to get feedback.
+# https://codedamn.com/projects specfic section
+codedamn:
+  helper-learning-path: web3
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: ethereum-v1

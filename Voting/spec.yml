@@ -3,7 +3,7 @@ tags: ["Web3", "Solidity"]
 starter-files: https://github.com/kshitijofficial/VoteApp-Project
 type: backend
 level: medium
-cover-image: shttps://raw.githubusercontent.com/kshitijofficial/VoteApp-Project/main/asset/Vote.png
+cover-image: https://raw.githubusercontent.com/kshitijofficial/VoteApp-Project/main/asset/Vote.png
 short-description: This project will be a perfect test of your solidity skills.
 long-description: |
   The task is to create a voting smart contract.
